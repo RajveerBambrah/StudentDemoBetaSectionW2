@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamental;
 public class Student1 {
 
     private String name;
+    private int Id;
 
     /**
      * @return the name
@@ -19,12 +20,20 @@ public class Student1 {
     public String getName() {
         return name;
     }
+    public int getid(){
+        return Id;
+    }
 
     /**
      * @param givenName the name to set
      */
     public void setName(String givenName) {
             name = givenName;
+    }
+    public void setId(int givenId)
+    {
+        int  id = givenId;
+                
     }
     
 }
