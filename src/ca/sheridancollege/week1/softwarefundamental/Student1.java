@@ -9,7 +9,7 @@ package ca.sheridancollege.week1.softwarefundamental;
  *
  * @author mehta
  */
-public class Student1 {
+public class Student1 { // its a class
 
     private String name;
     private int Id;
