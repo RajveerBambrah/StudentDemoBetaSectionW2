@@ -10,7 +10,7 @@ package ca.sheridancollege.week1.softwarefundamental;
  *
  * @author mehta
  */
-public class Student1 { // its a class
+public class Student1 { // its a class shdghsgfhdshf
 
     private String name;
     private int Id;
@@ -37,4 +37,4 @@ public class Student1 { // its a class
                 
     }
     
-}
+}//end of class....
